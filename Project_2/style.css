@@ -144,12 +144,12 @@ select{
 }
 
 @keyframes animate{
-    from{
-           background-color: steelblue;
-       }
-       to{
-           background-color: darkslateblue;
-       }   
+    
+       0%{background-color: indianred;}
+       25%{background-color: goldenrod;}
+       50%{background-color: mediumseagreen;}
+       100%{background-color: midnightblue;}
+      
 }
 
 a:link{
